@@ -1,3 +1,6 @@
+body {background-color: #6B2941;}
+
+
 .blinking{
     animation:blinkingText 1.2s infinite;
 }
@@ -13,3 +16,6 @@ h2
 { color:#1E5C6B;
 }
 
+img{max-width: 1000px;
+    height: 400px;
+    background-color: powderblue;}
